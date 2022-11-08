@@ -3,4 +3,4 @@ Jan ima 0 pobjeda i 0 poraza!
 
 o . .
 . X X
-. . o
+o . o
