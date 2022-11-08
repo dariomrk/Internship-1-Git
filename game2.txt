@@ -1,6 +1,6 @@
 Dario ima 0 pobjeda i 0 poraza!
 Jan ima 0 pobjeda i 0 poraza!
 
-o . .
+o X .
 . . .
 . . .
